@@ -1,0 +1,6 @@
+:root {    
+    --global--spacing-horizontal: 25px;
+    --responsive--aligndefault-width: 1000px;
+    --responsive--alignwide-width: min(calc(100vw - 8 * var(--global--spacing-horizontal)), 1240px);
+    --global--spacing-vertical: 30px;
+}
