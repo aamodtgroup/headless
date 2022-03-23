@@ -1,9 +1,9 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  reactStrictMode: true,
-  images: {
-    domains: ["headless.accelr.dev", "localhost"]
-},
-}
+    reactStrictMode: true,
+    images: {
+        domains: ["headless-demo.accelr.dev", "localhost"],
+    },
+};
 
-module.exports = nextConfig
+module.exports = nextConfig;
